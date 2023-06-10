@@ -1,0 +1,12 @@
+ec2-34-205-94-60.compute-1.amazonaws.com
+
+aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 988367001939.dkr.ecr.us-east-1.amazonaws.com
+
+988367001939.dkr.ecr.us-east-1.amazonaws.com/workshop2
+
+Endpoint
+nctutorials.cysjtc0l6kjf.us-east-1.rds.amazonaws.com
+Port
+5432
+
+https://github.com/EzrielAsItGets/workshop2.git
